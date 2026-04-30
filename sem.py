@@ -1,1 +1,2 @@
 print("sem")
+print("exam")
